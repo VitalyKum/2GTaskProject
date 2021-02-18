@@ -56,5 +56,9 @@ namespace _2GisTaskProject
         {
             return key.ToString();
         }
+        public string Todo()
+        {
+            return string.Empty;
+        }
     }
 }
